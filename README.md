@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanyazar&show_icons=true&locale=en&layout=compact" alt="furkanyazar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanyazar&show_icons=true&locale=en" alt="furkanyazar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanyazar&show_icons=true&locale=en" alt="furkanyazar" width="50%" /></p>
