@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **.Net and Java Spring**
+- 💬 Ask me about **.NET and Java Spring**
 
 - 📫 How to reach me **furkanyazar9853@gmail.com**
 
