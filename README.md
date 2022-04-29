@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A backend developer from Izmir, Turkey</h3>
 
-- 🔭 I’m currently working on [FYStore](https://github.com/furkanyazar/FYStore)
+- 🔭 I’m currently working on [FyStore](https://github.com/furkanyazar/FyStore)
 
 - 🌱 I’m currently learning **Node.js**
 
