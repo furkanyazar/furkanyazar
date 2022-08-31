@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A backend developer from Izmir, Turkey</h3>
+<h3 align="center">A full stack developer from Tatilcikus</h3>
 
 - 🔭 I’m currently working on [TatilcikusBackend](https://github.com/furkanyazar/TatilcikusBackend) and [tatilcikus-dev](https://github.com/dadstar-group/tatilcikus-dev)
 
