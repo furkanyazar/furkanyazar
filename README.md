@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/furkanyazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanyazar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18197212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18197212" height="30" width="40" /></a>
-<a href="https://instagram.com/furkanyazar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanyazar.dev" height="30" width="40" /></a>
+<a href="https://instagram.com/furkanyazar.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanyazar.dev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/furkanyazar9853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkanyazar9853" height="30" width="40" /></a>
 </p>
 
