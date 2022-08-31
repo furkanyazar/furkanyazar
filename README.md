@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A backend developer from Izmir, Turkey</h3>
 
-- 🔭 I’m currently working on [FyStore](https://github.com/furkanyazar/FyStore) and [fy-store](https://github.com/furkanyazar/fy-store)
+- 🔭 I’m currently working on [TatilcikusBackend](https://github.com/furkanyazar/TatilcikusBackend) and [tatilcikus-dev](https://github.com/dadstar-group/tatilcikus-dev)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **.NET and Java Spring**
+- 💬 Ask me about **ASP.NET**
 
-- 📫 How to reach me **furkanyazar9853@gmail.com**
+- 📫 How to reach me **furkan@tatilcikus.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/furkanyazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanyazar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18197212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18197212" height="30" width="40" /></a>
-<a href="https://instagram.com/furkanyazar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanyazar0" height="30" width="40" /></a>
+<a href="https://instagram.com/furkanyazar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanyazar.dev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/furkanyazar9853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkanyazar9853" height="30" width="40" /></a>
 </p>
 
