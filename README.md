@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ASP.NET**
 
-- 📫 How to reach me **furkan@tatilcikus.com**
+- 📫 How to reach me **furkanyazar@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
