@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Backend developer at Tatilcikuş</h3>
+<h3 align="center">A Software Developer</h3>
 
 - 🔭 I’m currently working on [FyStoreBackend](https://github.com/furkanyazar/FyStoreBackend) and [fy-store-react](https://github.com/furkanyazar/fy-store-react)
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ASP.NET Core**
 
-- 📫 How to reach me **furkanyazar@proton.me**
+- 📫 How to reach me **contact@furkanyazar.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
