@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [FyStoreBackend](https://github.com/furkanyazar/FyStoreBackend) and [fy-store-react](https://github.com/furkanyazar/fy-store-react)
 
