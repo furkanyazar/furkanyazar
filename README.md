@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [FyStoreBackend](https://github.com/furkanyazar/FyStoreBackend) and [fy-store-react](https://github.com/furkanyazar/fy-store-react)
+- 🔭 I’m currently working on [FyOffice](https://github.com/furkanyazar/FyOffice) and [fy-office](https://github.com/furkanyazar/fy-office)
 
 - 🌱 I’m currently learning **Node.js**
 
