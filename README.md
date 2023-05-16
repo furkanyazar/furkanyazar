@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [FyOffice](https://github.com/furkanyazar/FyOffice) and [fy-office](https://github.com/furkanyazar/fy-office)
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **ASP.NET Core**
-
 - 📫 How to reach me **contact@furkanyazar.dev**
 
 <h3 align="left">Connect with me:</h3>
