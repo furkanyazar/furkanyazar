@@ -1,6 +1,6 @@
-# 👨‍💻 Furkan Yazar – Backend Developer
+# 👨‍💻 Furkan Yazar - Backend Developer
 
-Hi, I'm Furkan – a backend developer who builds scalable, testable, and event-driven systems using .NET technologies.  
+Hi, I'm Furkan, a backend developer who builds scalable, testable, and event-driven systems using .NET technologies.  
 I specialize in **Clean Architecture**, **CQRS**, **RabbitMQ**, **PostgreSQL**, and **real-time systems with SignalR/WebSocket**.
 
 ## 🚀 About Me
