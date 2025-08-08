@@ -1,7 +1,6 @@
 # 👨‍💻 Furkan Yazar - Backend Developer
 
-Hi, I'm Furkan, a backend developer who builds scalable, testable, and event-driven systems using .NET technologies.  
-I specialize in **Clean Architecture**, **CQRS**, **RabbitMQ**, **PostgreSQL**, and **real-time systems with SignalR/WebSocket**.
+Hi, I'm Furkan. A backend developer who builds scalable, testable, and event-driven systems using .NET technologies. I specialize in **Clean Architecture**, **CQRS**, **RabbitMQ**, **PostgreSQL**, and **real-time systems with SignalR/WebSocket**. I don't just write working code, I build reliable, scalable systems.
 
 ## 🚀 About Me
 
@@ -52,7 +51,3 @@ I design backend systems that are:
 - 🌐 Website: [furkanyazar.dev](https://furkanyazar.dev)
 - 📧 Email: [contact@furkanyazar.dev](mailto:contact@furkanyazar.dev)
 - 🔗 LinkedIn: [linkedin.com/in/furkanyazar](https://linkedin.com/in/furkanyazar)
-
----
-
-> "I don't just write working code — I build reliable, scalable systems."
