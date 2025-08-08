@@ -51,7 +51,6 @@ I design backend systems that are:
 
 - 🌐 Website: [furkanyazar.dev](https://furkanyazar.dev)
 - 📧 Email: [contact@furkanyazar.dev](mailto:contact@furkanyazar.dev)
-- 🔗 GitHub: [github.com/furkanyazar](https://github.com/furkanyazar)
 - 🔗 LinkedIn: [linkedin.com/in/furkanyazar](https://linkedin.com/in/furkanyazar)
 
 ---
