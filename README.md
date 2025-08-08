@@ -3,8 +3,6 @@
 Hi, I'm Furkan – a backend developer who builds scalable, testable, and event-driven systems using .NET technologies.  
 I specialize in **Clean Architecture**, **CQRS**, **RabbitMQ**, **PostgreSQL**, and **real-time systems with SignalR/WebSocket**.
 
----
-
 ## 🚀 About Me
 
 I design backend systems that are:
@@ -16,8 +14,6 @@ I design backend systems that are:
 - 📈 Observability-ready with Serilog, ElasticSearch & centralized exception handling
 - 🔁 Real-time capable with SignalR and WebSocket integrations
 - 🏢 Multi-tenant aware, supporting both schema-based and row-based separation strategies
-
----
 
 ## 🛠️ Tech Stack
 
@@ -51,14 +47,12 @@ I design backend systems that are:
 **Testing:**  
 `xUnit`, `Mocking`, `TDD`, `Integration Tests`
 
----
-
 ## 📫 Contact
 
 - 🌐 Website: [furkanyazar.dev](https://furkanyazar.dev)
 - 📧 Email: [contact@furkanyazar.dev](mailto:contact@furkanyazar.dev)
 - 🔗 GitHub: [github.com/furkanyazar](https://github.com/furkanyazar)
-- 🔗 LinkedIn: [linkedin.com/in/furkanyazar](https://www.linkedin.com/in/furkanyazar)
+- 🔗 LinkedIn: [linkedin.com/in/furkanyazar](https://linkedin.com/in/furkanyazar)
 
 ---
 
