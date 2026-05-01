@@ -1,53 +1,40 @@
-# 👨‍💻 Furkan Yazar - Backend Developer
+# Hi, I'm Furkan YAZAR 👋
+### Technical Lead & Backend Specialist
 
-Hi, I'm Furkan. A backend developer who builds scalable, testable, and event-driven systems using .NET technologies. I specialize in **Clean Architecture**, **CQRS**, **RabbitMQ**, **PostgreSQL**, and **real-time systems with SignalR/WebSocket**. I don't just write working code, I build reliable, scalable systems.
+Result-oriented Technical Lead with extensive experience in architecting and delivering end-to-end software solutions. I specialize in building scalable backend systems and high-performance messaging infrastructures.
 
-## 🚀 About Me
+- 🔭 I’m currently leading engineering teams and standardizing development workflows at **Tatilcikuş**.
+- 🏗️ Focused on **Clean Architecture**, **CQRS**, and **Event-Driven Systems**.
+- ⚙️ Expert in **.NET**, **C#**, **PostgreSQL**, and **RabbitMQ**.
+- ⚡ I’m passionate about bridging the gap between technical execution and business objectives.
 
-I design backend systems that are:
+---
 
-- ⚙️ Modular and testable with Clean Architecture principles
-- 🧩 CQRS + MediatR based command-query separation
-- 📤 Message-driven via RabbitMQ (delayed, retry, DLQ)
-- 🔒 Secure with JWT authentication & role-based authorization
-- 📈 Observability-ready with Serilog, ElasticSearch & centralized exception handling
-- 🔁 Real-time capable with SignalR and WebSocket integrations
-- 🏢 Multi-tenant aware, supporting both schema-based and row-based separation strategies
+### 🛠 Tech Stack
 
-## 🛠️ Tech Stack
+**Languages & Frameworks**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend:**  
-`C#`, `ASP.NET Core`, `Web API`, `CQRS`, `MediatR`, `Clean Architecture`
+**Architecture & Messaging**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- **Patterns:** Clean Architecture, CQRS, Microservices, Domain-Driven Design (DDD).
 
-**Messaging:**  
-`RabbitMQ`, `Event-driven design`, `Delayed Messaging`, `Retry`, `DLQ`
+**Tools & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Real-time Systems:**  
-`SignalR`, `WebSocket`, `Live Notifications`, `Streaming`
+---
 
-**Database:**  
-`PostgreSQL`, `SQL Server`, `EF Core`, `Redis`
+### 📈 Career Trajectory @ Tatilcikuş
+- **Project Lead & Back-end Specialist** (2025 - Present) 🚀
+- **Full-stack Developer** (2022 - 2025) 💻
 
-**DevOps & Tools:**  
-`Docker`, `Git`, `GitHub Actions`, `Linux Server Management`
+---
 
-**Monitoring & Logging:**  
-`Serilog`, `ElasticSearch`, `Custom Middleware`
-
-**Security:**  
-`JWT`, `OAuth2`, `Role-based Authorization`, `Swagger UI`
-
-**Multi-Tenancy:**  
-`Schema-based & row-based tenant separation`, `Request-scoped tenant resolution`, `Tenant-aware service design`
-
-**Localization & Translation:**  
-`Multi-language support`, `YAML`, `Amazon Translate API`
-
-**Testing:**  
-`xUnit`, `Mocking`, `TDD`, `Integration Tests`
-
-## 📫 Contact
-
-- 🌐 Website: [furkanyazar.dev](https://furkanyazar.dev)
-- 📧 Email: [contact@furkanyazar.dev](mailto:contact@furkanyazar.dev)
-- 🔗 LinkedIn: [linkedin.com/in/furkanyazar](https://linkedin.com/in/furkanyazar)
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkanyazar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanyazar@proton.me)
